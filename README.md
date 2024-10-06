@@ -52,7 +52,7 @@
 </div>
 
 <hr/>
- <h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=sachithasamadhib&count_private=true&theme=react&border_radius=10&cache=false" alt="streak stats"/>
@@ -61,6 +61,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithasamadhib&layout=compact&theme=react&cache=false" alt="top langs" />
 </div>
+
 
 
 <br/><br/>
