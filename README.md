@@ -59,7 +59,8 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache=false" alt="readme stats"/>
 
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithasamadhib&hide=HTML&langs_count=8&layout=compact&theme=react" alt="top langs" />
+ <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithasamadhib&hide=HTML&langs_count=8&layout=compact&theme=react&v=1" alt="top langs" />
+
 
 </div>
 
