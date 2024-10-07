@@ -59,7 +59,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache=false" alt="readme stats"/>
 
   <br/>
- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithasamadhib&hide=HTML&langs_count=8&layout=compact&theme=react&v=1" alt="top langs" />
+<!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithasamadhib&hide=HTML&langs_count=8&layout=compact&theme=react&v=1" alt="top langs" />
 
 
 </div>
@@ -76,4 +76,4 @@
 <a href='https://buymeacoffee.com/sachisb' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br/>
+<br/> -->
