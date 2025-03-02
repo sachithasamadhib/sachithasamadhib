@@ -39,12 +39,12 @@
 <table align="center">
     <tr>
         <td width="50%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&theme=dark&show_icons=true&count_private=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&theme=radical&show_icons=true&count_private=true"/>
             <br><br>
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithasamadhib&theme=dark&hide_border=false"/>
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithasamadhib&theme=radical&hide_border=false"/>
         </td>
         <td width="50%" align="center">
-            <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sachithasamadhib&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&count_private=true"/>
+            <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sachithasamadhib&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7&count_private=true"/>
         </td>
     </tr>
 </table>
