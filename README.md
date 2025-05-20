@@ -7,8 +7,9 @@
 ## About Me <img src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/about_me.gif" width="45px">
 
 
-<img width="30%"  align="right" alt="Github" src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/Right_Side.gif" />
+<img width="35%"  align="right" alt="Github" src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/Right_Side.gif" />
 
+<br>
 
 - 🛠️ Currently building **awesome things! (Stay tuned 😉)**
 
