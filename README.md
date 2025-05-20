@@ -1,106 +1,78 @@
-<p align="center">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-</p>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sachitha+Samadhi!;">
+<h1> Hello, I'm Sachitha Samadhi <img src = "https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/wave.gif" width = 50px>
+<img width="15%" align="right" alt="Github" src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/Discord.gif" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+learning+new+things;Open+Source+Contributor;Problem+Solver;Code+Adventurer;Tech+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=sachithasamadhib.sachithasamadhib"/>
+## About Me <img src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/about_me.gif" width="45px">
+
+
+<img width="30%"  align="right" alt="Github" src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/Right_Side.gif" />
+
+
+- 🛠️ Currently building **awesome things! (Stay tuned 😉)**
+
+- 🌱 I'm currently learning **more about DevOps practices and automation**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- ✨ Let's connect on **all things web development and beyond!**
+- ⚡ Fun fact: **Continuously exploring innovative web technologies**
+- 📫 Contact me via **sachithasbandara6@gmail.com**
+
+<br>
+
+## Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
+
+
+
+<p align="left">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,aws,docker,git,figma,c,cpp,cs,arduino,java,spring,mongodb,mysql,firebase,supabase&perline=10&size=10"/>
+  </a>
 </p>
 
-<table align="center">
-    <tr>
-<td width="50%" align="left">
-  
-- 🌱 I'm currently learning Python
+<br>
 
-- 👯 I'm looking to collaborate on Web App Development
+## GitHub Stats <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">
 
-- 💬 Talk to me about web-dev and mind-blowing sites! 🤯
+<p align="Left">
+  <img width="425" src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithasamadhib&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="Left">
+  <img width="324" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithasamadhib&layout=compact&theme=radical" alt="Top Languages" style="max-width:100%; height:auto;"/>
+</p>
 
-- 📫 How to reach me **sachithasbandara6@gmail.com**
-  
-
-</td>
-        <td width="50%" align="center">
-            <img alt="Coding" width="350" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-        </td>
-    </tr>
-</table>
-
----
-
-<h3 align="center">⚡ Stats ⚡</h3>
-
-<table align="center">
-    <tr>
-        <td width="50%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&theme=radical&show_icons=true&count_private=true"/>
-            <br><br>
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithasamadhib&theme=radical&hide_border=false"/>
-        </td>
-        <td width="50%" align="center">
-            <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sachithasamadhib&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7&count_private=true"/>
-        </td>
-    </tr>
-</table>
-
----
-
-<h3 align="center">Connect with me:</h3>
+## Connect With Me <img src='https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/handshake.gif' width="100px">
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/sachithasamadhib" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50"/>
-    </a>
-    <a href="https://www.instagram.com/sachitha_samadhi?igsh=b3BubWN1NmtwMWVx" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50"/>
-    </a>
+  <a href="https://www.linkedin.com/in/sachithasamadhib">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/sachitha_samadhi?igsh=b3BubWN1NmtwMWVx" ">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="mailto:sachithasbandara6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
+
+<br>
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '40px'></h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card" />
+</p>
+
+
+## Profile Visits <img src="https://media.tenor.com/XbovdtbA5mcAAAAi/direct-hit-joypixels.gif" width = '40px'>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{sachithasamadhib}/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-
 <p align="center">
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/index.php" target="_blank">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="C#" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50" height="50"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/>
-    </a>
-    <a href="https://nodejs.org/en" target="_blank">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
-    </a>
-    <a href="https://www.postman.com/" target="_blank">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="50" height="50"/>
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
