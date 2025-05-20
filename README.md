@@ -34,11 +34,11 @@
 
 ## GitHub Stats <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">
 
-<p align="Left">
-  <img width="425" src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithasamadhib&theme=radical" alt="GitHub Streak" />
+<p align="Center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=sachithasamadhib&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="424" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithasamadhib&theme=radical" alt="GitHub Streak" />
 </p>
-<p align="Left">
+<p align="Center">
   <img width="324" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithasamadhib&layout=compact&theme=radical" alt="Top Languages" style="max-width:100%; height:auto;"/>
 </p>
 
