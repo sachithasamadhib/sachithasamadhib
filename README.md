@@ -27,7 +27,7 @@
 
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,aws,docker,git,figma,c,cpp,cs,arduino,java,spring,mongodb,mysql,firebase,supabase&perline=10&size=10"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,aws,docker,git,figma,c,cpp,cs,arduino,java,spring,mongodb,mysql,firebase,supabase,kotlin,dotnet,dart"/>
   </a>
 </p>
 
