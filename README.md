@@ -11,9 +11,9 @@
 
 <br>
 
-- 🛠️ Currently building **awesome things! (Stay tuned 😉)**
+- 🛠️ In the process of **building awesome things!** (Stay tuned 😉)
 
-- 🌱 I'm currently learning **more about DevOps practices and automation**
+- 🌱 Diving deeper into **DevOps practices and automation**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - ✨ Let's connect on **all things web development and beyond!**
 - ⚡ Fun fact: **Continuously exploring innovative web technologies**
