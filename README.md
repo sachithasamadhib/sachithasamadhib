@@ -69,7 +69,7 @@
 ## Profile Visits <img src="https://media.tenor.com/XbovdtbA5mcAAAAi/direct-hit-joypixels.gif" width = '40px'>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{sachithasamadhib}/count.svg" alt="Visitor Count" />
+  <img src="https://sachitha-profile-counter.sachithasamadhib.workers.dev/count/sachithasamadhib" alt="Visitor Count" />
 </p>
 
 ---
